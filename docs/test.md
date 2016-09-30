@@ -37,4 +37,4 @@ int main() {
 ```
 
 测试图片啦
-![](http://pic3.zhongsou.com/image/380bc16a6845e04371c.jpg)
+![](https://www.python.org/static/img/python-logo.png)
