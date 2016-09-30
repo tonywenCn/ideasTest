@@ -27,5 +27,11 @@
 ![](http://latex.codecogs.com/gif.latex?x=\\frac{-b\\pm\\sqrt{b^2-4ac}}{2a})
 
 
-
-
+来段代码吧
+`
+#include<stdio.h>
+int main() {
+    printf("hello world!\n");
+    return 0;
+}
+`
