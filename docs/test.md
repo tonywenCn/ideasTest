@@ -41,6 +41,7 @@ int main() {
 测试图片啦
 
 ![](https://www.python.org/static/img/python-logo.png)
+![](./img/myImg.png)
 
 测试表格 
 
