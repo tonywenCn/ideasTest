@@ -39,3 +39,11 @@ int main() {
 测试图片啦
 
 ![](https://www.python.org/static/img/python-logo.png)
+
+测试表格 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
