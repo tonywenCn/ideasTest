@@ -1,4 +1,4 @@
-<div align = center>Markdown 从入门到放弃</div>
+<font color=gray size=72><div align = center>Markdown 从入门到放弃</div> </font>
 # Head1
 ## Head2
 ### Head3
