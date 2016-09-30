@@ -47,3 +47,7 @@ int main() {
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+#Reference
+1. [Markdown简明教程](http://www.jianshu.com/p/1e402922ee32/)
+2. [Markdown使用手册](http://www.appinn.com/markdown/)
