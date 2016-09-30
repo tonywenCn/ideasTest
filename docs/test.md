@@ -1,4 +1,5 @@
 <span style="font-size: 32px;"> <div align = center>Markdown 从入门到放弃</div> </span>
+[TOC]
 # 标题1
 ## 标题2
 ### 标题3
